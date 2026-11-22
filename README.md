@@ -1,5 +1,7 @@
 # JavaScript Exercises
 
+[![wakatime](https://wakatime.com/badge/user/2ba7abf9-87ce-40fb-a3e8-f0f6cc49ddf6/project/8cf745a2-d9cc-46f8-b60f-c08ef3c57cce.svg)](https://wakatime.com/badge/user/2ba7abf9-87ce-40fb-a3e8-f0f6cc49ddf6/project/8cf745a2-d9cc-46f8-b60f-c08ef3c57cce)
+
 These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
 
 > [!IMPORTANT]
